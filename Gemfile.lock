@@ -41,6 +41,3 @@ DEPENDENCIES
   bundler
   jekyll
   rack-jekyll
-
-BUNDLED WITH
-   1.11.2
